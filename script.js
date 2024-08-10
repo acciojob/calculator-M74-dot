@@ -42,7 +42,7 @@ document.addEventListener('DOMContentLoaded',()=>{
                 case 'ans':
                     calculate();
                     break;
-                case 'backspace':
+                case 'clear':
                     backspace();
                     break;
                 default:
